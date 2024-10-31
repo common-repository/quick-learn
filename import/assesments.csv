@@ -1,0 +1,6 @@
+course_name,assesment_name,duration,duration_type,wrong_minus_point,skip_minus_point,passing_grade,retake
+"PHP Basic Course,PHP Advance Course",Assesment #1,5,minute,0,1,60,3
+"PHP Basic Course,Javascript Course",Assesment #2,6,minute,0,1,65,2
+Css Course,Assesment #3,3,minute,0,1,70,4
+"PHP Basic Course,HTML Course",Assesment #4,4,minute,0,1,80,5
+PHP Advance Course,Assesment #5,6,minute,0,1,75,6

@@ -1,0 +1,393 @@
+
+
+	.payment_optionbox{
+
+		display: none;
+
+	}
+
+	#paypal_form,#stripe_payment_form{
+
+		visibility:hidden;
+
+		height: 0;
+
+	}
+
+	#myModal .modal-content{
+
+		border: 0;
+
+		box-shadow: none !important;
+
+	}
+
+	#payment-form{
+
+		background: #fff !important;
+
+	}
+
+	.stripepaybtn{
+
+		visibility: hidden;height: 10px;
+
+	}
+
+
+
+
+	.tablinks.disabled{
+
+		pointer-events: none !important;
+
+	}
+
+	.tb_tab_assesments.disabled{
+
+		pointer-events: none !important;
+
+	}
+
+	.quiestion_leftbox{
+
+		width: 25%;
+
+		float: left;
+
+		background: #019bfb;
+
+		border: 1px solid #dddd;
+
+	}
+
+	.quiestion_rightbox{
+
+		width: 75%;
+
+		float: left;
+
+		min-height: 300px;
+
+		padding: 20px;
+
+	}
+
+	.assesments_tab.tab_contents.active_tab_content{
+
+		display: flex !important;
+
+	}
+
+	.title_heading {
+
+    line-height: 26px;
+
+    display: block;
+
+    background-color: #019bfb;
+
+    color: #fff;
+
+    padding: 15px 16px;
+
+    width: 100%;
+
+    border: 0;
+
+    outline: none;
+
+    text-align: left;
+
+    cursor: pointer;
+
+    transition: 0.3s;
+
+    font-size: 15px;
+
+    border-bottom: 1px solid #dddd;
+
+    pointer-events: none;
+
+}
+
+.title_heading.active1{pointer-events: all;}
+
+.title_heading.active{
+
+	background: #fff;
+
+    color: #000;
+
+    pointer-events: all;
+
+}
+
+.pricebox{
+
+	display: flex;
+
+}
+
+.s_p_box{margin-left: 20px;}
+
+
+
+
+#modal-button{
+      background: none;
+      color: #000;
+      width: 20px;
+
+}
+#addtocartbtnbox-button{
+     padding: 10px 60px;
+}
+#complete-button{
+     padding: 0px;
+}
+span.gsp-lms .fa {
+     font-family: fontAwesome !important;
+     color: #007bff !important;
+     cursor: pointer;
+}
+span.gsp-lms .fa.heart_active{
+	color: #ef4c4c !important;
+}
+.gsp-lms-big{
+    position: absolute;
+    top: 10px;
+    right: 25px;
+    background: #50c3e5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 7px;
+}
+.gsp-lms-big .heart_icon{
+     margin: 0 !important;
+}
+.para{
+    color: red;
+}
+.baner-image{
+    width:100%;
+    margin-bottom:10px;
+}
+.width100{
+	width: 100%;
+}
+.lessons_tab .btn.disabled{
+	background: #ccc !important;
+	padding: 5px 10px !important;
+}
+.tab-bar .tabcontent iframe[style]{
+	width: 1920px !important;
+	height: 480px !important;
+}
+.custom_b_btn{
+	display: inline-block;
+	margin-bottom: 0;
+	font-weight: 400;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	-ms-touch-action: manipulation;
+	touch-action: manipulation;
+	cursor: pointer;
+	background-image: none;
+	border: 1px solid transparent;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	border-radius: 4px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+.btn_retake,.btn_retake:hover{
+	background: #019bfb !important;
+}
+.btn_retake:hover{
+	color: #fff !important;
+}
+.s_p_box.oldprice {
+    text-decoration: line-through;
+    color: #bf3b3b;
+}
+.gsp_lms_course_durationbox{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+.gsp_lms_course_durationbox i.fa-clock-o{
+	color: #898686 !important;
+	font-size: 20px !important;
+	font-weight: normal !important;
+	margin-top: 0px !important;
+	margin-right: 10px !important;
+}
+.ratingbox .fa,.ratingbox1 .fa{
+      color: #655d5d !important;
+      cursor: pointer;
+      margin-right: 0px;
+}
+.ratingbox .fa.active{
+  color: #f9c775 !important;
+}
+.noborder{
+  border: 0px !important;
+}
+.custom_msg_success{
+  color: green;
+}
+.star_ratingbox{
+	display: flex;
+}
+.fastaricon1{
+	color: #f9c775 !important;
+}
+.ratingbox1 .fa.active{
+  color: #f9c775 !important;
+}
+
+.front_main_starbox{
+    font-size: 15px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.front_under_star{
+    color: #b7aeae !important;
+    vertical-align: top;
+}
+.front_over_star{
+    color: #f9c775 !important;
+    position: absolute;
+    left: 0;
+    top: 0px;
+    overflow: hidden;
+}
+.ac_front_list_raingbox{
+    
+    display: flex;
+}
+.front_star{
+    color: #f9c775 !important;
+}
+.front_main_starbox .fa-star{
+	margin: 0px 2px !important;
+}
+.big_img_ratingbox{
+	display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.reviews_tab.tab_contents.active_tab_content{
+	display: flex !important;
+    justify-content: space-around;
+    max-width: 767px;
+    margin: 0 auto;
+}
+.c_imgbox img{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+.rr_customer_name{
+	display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.c_imgbox{
+	margin-right: 5px;
+}
+.a_r_m_box{
+	margin-bottom: 30px;
+}
+.rating_commentbox{
+	width: 100% !important;
+	padding-bottom:20px ;
+}
+.rating_commentbox #rating_commentboxtextarea{
+	width: 100% !important;
+}
+
+@-webkit-keyframes rotating5 /* Safari and Chrome */ {
+  from {
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg); }
+  to {
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg); }
+}
+.commentsendbtn{
+	display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.commentsendbtn.disabled{
+	pointer-events: none;
+    background-color: gray;
+    opacity: 0.5;
+}
+.item_send_data_rating:before{
+    content: "\f463" !important;
+    color: #fff !important;
+    -webkit-animation: rotating5 2s linear infinite;
+    -moz-animation: rotating5 2s linear infinite;
+    -ms-animation: rotating5 2s linear infinite;
+    -o-animation: rotating5 2s linear infinite;
+    animation: rotating5 2s linear infinite;
+    font-family: Dashicons !important;
+    font-size: 20px;
+}
+.nomargin{
+	margin: 0 !important;
+}
+.float_left{
+	float: left !important;
+}
+.s_c_b_userbox{
+	display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.sc_imgbox .sc_img{
+	width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.rating_commentboxtextarea .ratingbox .fa{
+	font-size: 25px;
+	margin: 0px 9px;
+}
+.rating_commentboxtextarea .ratingbox{
+	margin-bottom: 15px;
+}
+.rating_commentboxtextarea .ratingbox .fa:nth-child(2){
+	margin-left: 0px !important;
+}
+#rating_commentboxtextarea{
+	border: 0;
+    border-bottom: 2px solid #447cff;
+    background: #e7e7e98c;
+    padding: 10px;
+    outline: 0;
+    resize: none;
+}
+.rr_submitbtnbox{
+	display: flex;
+    align-items: center;
+}
+.review_sendbox{
+	margin-left: 10px;
+}
+.course_single_lmsbox p{
+	text-align: justify !important;
+}

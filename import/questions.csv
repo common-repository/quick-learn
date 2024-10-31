@@ -1,0 +1,21 @@
+assesment_name,question_name,question_type,question_options,question_answer,mark
+Assesment #1,PHP stands for -,single_choice,"Hypertext Preprocessor,Pretext Hypertext Preprocessor,Personal Home Processor,None of the above",Hypertext Preprocessor,1
+Assesment #1,Who is known as the father of PHP?,single_choice,"Drek Kolkevi,List Barely,Rasmus Lerdrof,None of the above",Rasmus Lerdrof,1
+Assesment #1,Variable name in PHP starts with -,single_choice,"! (Exclamation),$ (Dollar),& (Ampersand),# (Hash)",$ (Dollar),1
+Assesment #1, Which of the following is the default file extension of PHP?,single_choice,".php,.hphp,.xml,.html",.php,1
+Assesment #2,Which of the following is not a variable scope in PHP?,single_choice,"Extern,Local,Static,Global",Extern,1
+Assesment #2,Which of the following is correct to add a comment in php?,single_choice,"& …… &,// ……,/* …… */,Both (b) and (c)",Both (b) and (c),1
+Assesment #2,Which of the following is used to display the output in PHP?,single_choice,"Echo,write,print,Both (a) and (c)",Both (a) and (c),1
+Assesment #3,Which of the following is the use of strlen() function in PHP?,single_choice,"The strlen() function returns the type of string,The strlen() function returns the length of string,The strlen() function returns the value of string,The strlen() function returns both value and type of string",The strlen() function returns the length of string,1
+Assesment #3,Which of the following is used for concatenation in PHP?,single_choice,"+ (plus),* (Asterisk),. (dot),append()",. (dot),1
+Assesment #3,Which of the following starts with __ (double underscore) in PHP?,single_choice,"Inbuilt constants,User-defined constants,Magic constants,Default constants",Magic constants,1
+Assesment #4,Which of the following is the use of strpos() function in PHP?,single_choice,"The strpos() function is used to search for the spaces in a string,The strpos() function is used to search for a number in a string,The strpos() function is used to search for a character/text in a string,The strpos() function is used to search for a capitalize character in a string",The strpos() function is used to search for a character/text in a string,1
+Assesment #4,What does PEAR stands for?,single_choice,"PHP extension and application repository,PHP enhancement and application reduce,PHP event and application repository,None of the above",PHP extension and application repository,1
+Assesment #4,Which of the following is the correct way to create a function in PHP?,single_choice,"Create myFunction(),New_function myFunction(),function myFunction(),None of the above",function myFunction(),1
+Assesment #4,Which of the following PHP function is used to generate unique id?,single_choice,"id(),mdid(),uniqueid(),None of the above",uniqueid(),1
+Assesment #5,Which of the following is used to display the output in PHP?,single_choice,"Echo,write,print,Both (a) and (c)",Both (a) and (c),1
+Assesment #5,Which of the following starts with __ (double underscore) in PHP?,single_choice,"Inbuilt constants,User-defined constants,Magic constants,Default constants",Magic constants,1
+Assesment #5,Which of the following is the use of strlen() function in PHP?,single_choice,"The strlen() function returns the type of string,The strlen() function returns the length of string,The strlen() function returns the value of string,The strlen() function returns both value and type of string",The strlen() function returns the length of string,1
+Assesment #5,Variable name in PHP starts with -,single_choice,"! (Exclamation),$ (Dollar),& (Ampersand),# (Hash)",$ (Dollar),1
+Assesment #5,Which of the following is correct to add a comment in php?,single_choice,"& …… &,// ……,/* …… */,Both (b) and (c)",Both (b) and (c),1
+Assesment #5,Which of the following is the correct way to create a function in PHP?,single_choice,"Create myFunction(),New_function myFunction(),function myFunction(),None of the above",function myFunction(),1
